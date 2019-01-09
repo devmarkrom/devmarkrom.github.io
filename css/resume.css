@@ -54,7 +54,7 @@ p.lead {
   font-size: 1.5rem;
 }
 
-.social-icons a {
+.social-icons-fix a {
   display: inline-block;
   height: 3.5rem;
   width: 3.5rem;
@@ -67,16 +67,22 @@ p.lead {
   margin-right: 1rem;
 }
 
-.social-icons a:last-child {
+.social-icons-fix a:last-child {
   margin-right: 0;
 }
 
-.social-icons a:hover {
+.social-icons-fix a:hover {
   background-color: #194D33;
 }
 
+.fix{
+  visibility: visible!important;
+    display: block!important;
+    orphans: 4321!important;
+}
+
 .dev-icons {
-  font-size: 8rem;
+  font-size: 5rem;
 }
 
 .dev-icons .list-inline-item i:hover {
