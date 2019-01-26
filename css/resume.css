@@ -200,3 +200,10 @@ a:hover, a:focus, a:active {
 .subheading>a{
   text-transform: lowercase;
 }
+
+.resume-item b {
+  background-color: rgba(25, 77,  51, 0.8);
+  color: #fff;
+  border-radius: 5px;
+  padding: 0 5px;
+}
