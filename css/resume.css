@@ -207,3 +207,8 @@ a:hover, a:focus, a:active {
   border-radius: 5px;
   padding: 0 5px;
 }
+
+.cert{
+  width: 30%;
+  display: block;
+}
