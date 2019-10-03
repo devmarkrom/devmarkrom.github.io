@@ -213,7 +213,7 @@ a:hover, a:focus, a:active {
   display: block;
 }
 
-.fa-ul{
+/* .fa-ul{
   display: flex;
   flex-wrap: wrap;
 }
@@ -222,7 +222,7 @@ a:hover, a:focus, a:active {
   position: relative;
   display: block;
   width: 50%;
-}
+} */
 
 .poli{
   width: 50%;
