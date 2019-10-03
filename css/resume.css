@@ -209,6 +209,21 @@ a:hover, a:focus, a:active {
 }
 
 .cert{
-  width: 30%;
+  width: 80%;
   display: block;
+}
+
+.fa-ul{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.fa-ul>li {
+  position: relative;
+  display: block;
+  width: 50%;
+}
+
+.poli{
+  width: 50%;
 }
